@@ -7,7 +7,7 @@ ___
 
 I'm a dedicated and passionate MERN Developer. I'm a quick learner and eager to learn new technologies to expand my knowledge. I want to see myself as a Senior MERN Developer in the next 5 years.
 
-###### `Skills: HTML5 / CSS3 / JavaScript / Bootstrap / Tailwind / MUI / Daisy UI / React js / Node js / Express js / MongoDb /  Netlify / Heroku / Firebase`
+###### ```Skills: HTML5 / CSS3 / JavaScript / Bootstrap / Tailwind / MUI / Daisy UI / React js / Node js / Express js / MongoDb /  Netlify / Heroku / Firebase```
 
 > 🔭 I’m currently working on this page. 
 
