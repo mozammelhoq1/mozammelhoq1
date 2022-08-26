@@ -1,4 +1,3 @@
-<div style="bacground:black">
   # 💫 About Me:
 🔭 Hi there 👋, I'm MD. Mozammel Hoq<br><br>'Im a dedicated and passionate MERN Developer. I'm a quick learner and eager to learn new technologies to expand my knowledge. I want to see myself as a Senior MERN Developer in the next 5 years.<br><br>Skills: REACT / JS / HTML / CSS / TAILWIND / BOOTSTRAP / NODE / EXPRESS / MONGODB / FIREBASE<br><br>🌱 I’m currently learning Redux toolkit and React native<br><br>📫 How to reach me: mozammelhoq512@gmail.com<br>
 
@@ -22,4 +21,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=mozammelhoq1&icon=6&color=6)](https://visitcount.itsvg.in)
 
-  </div>
